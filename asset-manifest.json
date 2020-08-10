@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goldeneagle/static/css/main.e4103276.chunk.css",
+    "main.js": "/goldeneagle/static/js/main.564a3a2e.chunk.js",
+    "main.js.map": "/goldeneagle/static/js/main.564a3a2e.chunk.js.map",
+    "runtime-main.js": "/goldeneagle/static/js/runtime-main.bb8b84c1.js",
+    "runtime-main.js.map": "/goldeneagle/static/js/runtime-main.bb8b84c1.js.map",
+    "static/js/2.780a5f4c.chunk.js": "/goldeneagle/static/js/2.780a5f4c.chunk.js",
+    "static/js/2.780a5f4c.chunk.js.map": "/goldeneagle/static/js/2.780a5f4c.chunk.js.map",
+    "index.html": "/goldeneagle/index.html",
+    "precache-manifest.76b208b56b60c389dccee4e0959f88a3.js": "/goldeneagle/precache-manifest.76b208b56b60c389dccee4e0959f88a3.js",
+    "service-worker.js": "/goldeneagle/service-worker.js",
+    "static/css/main.e4103276.chunk.css.map": "/goldeneagle/static/css/main.e4103276.chunk.css.map",
+    "static/js/2.780a5f4c.chunk.js.LICENSE.txt": "/goldeneagle/static/js/2.780a5f4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb8b84c1.js",
+    "static/js/2.780a5f4c.chunk.js",
+    "static/css/main.e4103276.chunk.css",
+    "static/js/main.564a3a2e.chunk.js"
+  ]
+}
